@@ -42,9 +42,9 @@ Level 6: OAuth (Open Authorization)
 ## ⚙️ Setup Instructions
 
  1️⃣ Create Table in PostgreSQL(users):
- <br><br>
-as given in the query.sql
  <br>
+as given in the query.sql
+ <br><br>
  
 2️⃣ Install Dependencies:
 ```bash
@@ -69,9 +69,9 @@ npm i pg express ejs body-parser
 <img src="./imgg/oa13.png" width="1000"> 
 
 
-4️⃣ Edit .env file:
+4️⃣ Edit .env file:<br>
     as give in the .ENV.txt
-
+<br><br>
 
 5️⃣ Run Server:
 ```bash
