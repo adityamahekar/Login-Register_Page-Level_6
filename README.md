@@ -49,9 +49,20 @@ as given in the query.sql
 npm i
 npm i pg express ejs body-parser
 ```
-
-| ![oa1](./imgg/oa1.png) | ![oa2](./imgg/oa2.png) | ![oa3](./imgg/oa3.png) | ![oa4](./imgg/oa4.png) | ![oa5](./imgg/oa5.png) | ![oa6](./imgg/oa6.png) | ![oa7](./imgg/oa7.png) | ![oa8](./imgg/oa8.png) | ![oa9](./imgg/oa9.png) | ![oa10](./imgg/oa10.png) | ![oa11](./imgg/oa11.png) | ![oa12](./imgg/oa12.png) | ![oa13](./imgg/oa13.png) |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+3️⃣Google OAuth Credentials set up: 
+<img src="./imgg/oa1.png" width="300">  
+<img src="./imgg/oa2.png" width="300">  
+<img src="./imgg/oa3.png" width="300">  
+<img src="./imgg/oa4.png" width="300">  
+<img src="./imgg/oa5.png" width="300">  
+<img src="./imgg/oa6.png" width="300">  
+<img src="./imgg/oa7.png" width="300">  
+<img src="./imgg/oa8.png" width="300">  
+<img src="./imgg/oa9.png" width="300">  
+<img src="./imgg/oa10.png" width="300">  
+<img src="./imgg/oa11.png" width="300">  
+<img src="./imgg/oa12.png" width="300">  
+<img src="./imgg/oa13.png" width="300">
 
 
 4️⃣ Run Server:
