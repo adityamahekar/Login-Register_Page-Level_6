@@ -52,7 +52,7 @@ npm i pg express ejs body-parser
 3️⃣Google OAuth Credentials set up: 
 
 
-<img src="./imgg/oa1.png" width="300">  
+<img src="./imgg/oa1.png" width="800">  
 <img src="./imgg/oa2.png" width="300">  
 <img src="./imgg/oa3.png" width="300">  
 <img src="./imgg/oa4.png" width="300">  
