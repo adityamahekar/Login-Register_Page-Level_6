@@ -1,14 +1,16 @@
 ## 🔐 Login & Register Page – Level 6 Authentication (OAuth + Session-Based Authentication)
 
-This project builds on Level 5 and adds Google OAuth 2.0 login, so users can log in using their Google account. It uses Node.js, Express, EJS, PostgreSQL, Passport.js, and environment variables.
+This project extends Level 5 Authentication by adding Google OAuth 2.0 login. Users can log in either with their email/password or via their Google account. The application uses Node.js, Express, EJS, PostgreSQL, Passport.js, and environment variables for secure configuration.
+
 ---
 Features:
 
-Users can register with email/password (Level 5 auth).
-Users can log in via Google OAuth 2.0.
-Session-based authentication persists across pages using express-session.
-Protected routes like /secrets are accessible only if authenticated.
-Database credentials and session secrets are stored in .env.
+- Users can register with email and password (Level 5 auth).
+- Users can log in using their Google account via OAuth 2.0.
+- Session-based authentication ensures users stay logged in across pages.
+- Protected routes like /secrets are accessible only to authenticated users.
+- Database credentials and session secrets are securely stored in a `.env` file.
+
 ---
 🔑 Levels of Authentication:<br><br>
 Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)<br>
