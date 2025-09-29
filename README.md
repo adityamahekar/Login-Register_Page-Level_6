@@ -27,11 +27,15 @@ Level 6: OAuth (Open Authorization)
 
 | SignUp Page | Login Page |
 |-------------|------------|
-| ![lgl1](./imgg/lgl1.png) | ![a3](./imgg/a3.png) |
+| ![lgl1](./imgg/lgl1.png) | ![ld1](./imgg/ld1.png) |
 
 | Register Page | Secret Page |
 |---------------|-------------|
-| ![al1](./imgg/al1.png) | ![alia2](./imgg/alia2.png) |
+| ![hl2](./imgg/hl2.png) | ![hl](./imgg/hl.png) |
+
+| DataBase |
+|---------------|
+| ![ld6](./imgg/ld6.png) |
 
 
 
@@ -50,9 +54,23 @@ npm i
 npm i pg express ejs body-parser
 ```
 
-3️⃣ OAouth:
+3️⃣ OAouth creation steps:
 
-| ![oa1](./imgg/oa1.png) | ![oa2](./imgg/oa2.png) | ![oa3](./imgg/oa3.png) | ![oa4](./imgg/oa4.png) | ![oa5](./imgg/oa5.png) | ![oa6](./imgg/oa6.png) | ![oa7](./imgg/oa7.png) | ![oa8](./imgg/oa8.png) | ![oa9](./imgg/oa9.png) | ![oa10](./imgg/oa10.png) | ![oa11](./imgg/oa11.png) | ![oa12](./imgg/oa12.png) | ![oa13](./imgg/oa13.png) | ![oa14](./imgg/oa14.png) |
+![oa1](./imgg/oa1.png) <br>
+![oa2](./imgg/oa2.png) <br>
+![oa3](./imgg/oa3.png) <br>
+![oa4](./imgg/oa4.png) <br>
+![oa5](./imgg/oa5.png) <br>
+![oa6](./imgg/oa6.png) <br>
+![oa7](./imgg/oa7.png) <br>
+![oa8](./imgg/oa8.png) <br>
+![oa9](./imgg/oa9.png) <br>
+![oa10](./imgg/oa10.png) <br>
+![oa11](./imgg/oa11.png) <br>
+![oa12](./imgg/oa12.png) <br>
+![oa13](./imgg/oa13.png) <br>
+
+
 
 4️⃣ Run Server:
 ```bash
