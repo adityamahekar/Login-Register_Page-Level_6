@@ -31,6 +31,11 @@ Level 6: OAuth (Open Authorization)
 |---------------|-------------|
 | ![hl2](./imgg/hl2.png) | ![hl](./imgg/hl.png) |
 
+
+| Gmail OAuth Login|
+|---------------|
+| ![ld3](./imgg/ld3.png) |
+
 | DataBase |
 |---------------|
 | ![ld6](./imgg/ld6.png) |
