@@ -1,17 +1,13 @@
-🔐 Login & Register Page – Level 6 Authentication (OAuth + Session-Based Authentication)
+## 🔐 Login & Register Page – Level 6 Authentication (OAuth + Session-Based Authentication)
 
 This project builds on Level 5 and adds Google OAuth 2.0 login, so users can log in using their Google account. It uses Node.js, Express, EJS, PostgreSQL, Passport.js, and environment variables.
-
+---
 Features:
 
 Users can register with email/password (Level 5 auth).
-
 Users can log in via Google OAuth 2.0.
-
 Session-based authentication persists across pages using express-session.
-
 Protected routes like /secrets are accessible only if authenticated.
-
 Database credentials and session secrets are stored in .env.
 ---
 🔑 Levels of Authentication:<br><br>
@@ -54,22 +50,8 @@ npm i
 npm i pg express ejs body-parser
 ```
 
-3️⃣ OAouth creation steps:
-
-![oa1](./imgg/oa1.png) <br>
-![oa2](./imgg/oa2.png) <br>
-![oa3](./imgg/oa3.png) <br>
-![oa4](./imgg/oa4.png) <br>
-![oa5](./imgg/oa5.png) <br>
-![oa6](./imgg/oa6.png) <br>
-![oa7](./imgg/oa7.png) <br>
-![oa8](./imgg/oa8.png) <br>
-![oa9](./imgg/oa9.png) <br>
-![oa10](./imgg/oa10.png) <br>
-![oa11](./imgg/oa11.png) <br>
-![oa12](./imgg/oa12.png) <br>
-![oa13](./imgg/oa13.png) <br>
-
+| ![oa1](./imgg/oa1.png) | ![oa2](./imgg/oa2.png) | ![oa3](./imgg/oa3.png) | ![oa4](./imgg/oa4.png) | ![oa5](./imgg/oa5.png) | ![oa6](./imgg/oa6.png) | ![oa7](./imgg/oa7.png) | ![oa8](./imgg/oa8.png) | ![oa9](./imgg/oa9.png) | ![oa10](./imgg/oa10.png) | ![oa11](./imgg/oa11.png) | ![oa12](./imgg/oa12.png) | ![oa13](./imgg/oa13.png) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 
 4️⃣ Run Server:
